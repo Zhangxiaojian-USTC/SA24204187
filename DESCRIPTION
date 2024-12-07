@@ -1,0 +1,16 @@
+Package: SA24204187
+Type: Package
+Title: Functions of kinds of mean estimators
+Version: 1.0
+Date: 2024-12-01
+Author: Jianjun Zhang
+Maintainer: Jianjun Zhang <2309730578@qq.com>
+Description: Several R and Rcpp function are included in this package for mean estimation.
+License: GPL (>= 2)
+Imports: Rcpp, nloptr, numDeriv, stats, knitr, rmarkdown, RcppArmadillo, xtable, MASS, boot, DAAG, bootstrap, stats4, purrr, Rglpk, microbenchmark, twosamples
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.3.2
+Encoding: UTF-8
+VignetteBuilder: knitr
+URL: http://github.com/Zhangxiaojian-USTC/SA24204187
+BugReports: http://github.com/Zhangxiaojian-USTC/SA24204187/issues
